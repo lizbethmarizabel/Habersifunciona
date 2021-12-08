@@ -1,0 +1,40 @@
+*{
+    background:#FCEAF6;
+    
+
+
+}
+h1{
+    color:#F52EB9;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+tr, td{
+    border: 2px ridge rgb(126, 7, 150);
+    
+}
+.limon{
+    width: 300px ;
+    height: 199.641;
+}
+.helada{
+    width: 300px ;
+    height: 200px;
+}
+.tresleches{
+    width: 300px ;
+    height: 200px;
+}
+.chocolate{
+    width: 300px ;
+    height: 200px;
+}
+.tres{
+    width: 300px ;
+    height: 200px;
+}
+.costo1{
+    text-align: center;
+}
+
